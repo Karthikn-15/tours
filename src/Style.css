@@ -1,0 +1,9 @@
+@tailwind components;
+@tailwind utilities;
+@tailwind base;
+.p {
+  color: aqua;
+}
+.company {
+  padding-left: 50px;
+}
